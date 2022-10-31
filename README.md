@@ -32,8 +32,10 @@ Here are a few things I've picked up along my learning journey.
  
 
 ## 🌱 currently learning
+![go](https://img.shields.io/badge/go-383838?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
 ![solidity](https://img.shields.io/badge/solidity-383838?style=for-the-badge&logo=solidity&logoColor=dark)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
+
 <!-- https://img.shields.io/badge/solidity-383838?style=for-the-badge&logo=solidity&logoColor=dark -->
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/man-robiul/)  || 
