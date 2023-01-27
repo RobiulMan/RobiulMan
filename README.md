@@ -32,6 +32,8 @@ Here are a few things I've picked up along my learning journey.
  
 
 ## 🌱 currently learning
+![docker](https://img.shields.io/badge/docker-383838?style=for-the-badge&logo=docker)
+![kubernetes](https://img.shields.io/badge/kubernetes-383838?style=for-the-badge&logo=kubernetes)
 ![go](https://img.shields.io/badge/go-383838?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) 
 ![solidity](https://img.shields.io/badge/solidity-383838?style=for-the-badge&logo=solidity&logoColor=dark)
