@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Robiul Islam
 
-I am a self-thought Full Stack Developer I am passionate about technologies and love to learn new things.
 
-#### 🔭 I’m currently looking for new opportunities .
+Hi, I'm a self-taught full-stack developer. I've been coding since 2018, and I have a strong foundation in programming. I'm currently focusing on the MERN Stack.
+
+#### 🔭 I’m currently looking for new opportunities.
 
 
 ## ⚡ Tech Stack
